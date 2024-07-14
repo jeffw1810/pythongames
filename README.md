@@ -1,3 +1,3 @@
-Game code for python games
-#install Turtle
+
+# first install Turtle
 C:\Users\Admin>pip install turtle
